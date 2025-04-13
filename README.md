@@ -2,8 +2,6 @@
 
 This project introduces enhancements to the [CDAP Wrangler](https://github.com/data-integrations/wrangler) library, enabling parsing and aggregation of data size and time duration units. These improvements aim to provide powerful and intuitive tools for handling such data in your transformation pipelines.
 
----
-
 ## ✨ Features
 
 ### 🔹 ByteSize Token Support
